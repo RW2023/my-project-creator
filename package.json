@@ -1,0 +1,22 @@
+{
+  "name": "my-project-creator",
+  "version": "1.0.0",
+  "description": "Project Structure Automation",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RW2023/my-project-creator.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "Ryan E. Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RW2023/my-project-creator/issues"
+  },
+  "homepage": "https://github.com/RW2023/my-project-creator#readme"
+}
